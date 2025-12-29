@@ -1,2 +1,2 @@
-# PythonProjects
-This is a repository I will be using for storing my python projects
+# To-Do List
+This is a project meant for writing or storing one's activities for a certain period(day,week,month,year)
